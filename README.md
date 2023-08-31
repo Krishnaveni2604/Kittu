@@ -1,2 +1,2 @@
 # Kittu
-be loyal in friendships.
+be loyal in friendships.;
